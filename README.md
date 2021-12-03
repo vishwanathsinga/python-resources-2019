@@ -301,7 +301,7 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
  
  * [_Python Tutorial_](https://www.guru99.com/python-tutorials.html) 
 
-
+* [ Python Programming Language](https://www.geeksforgeeks.org/python-language-introduction/?ref=lbp)
 
 ### Youtube
 
@@ -310,6 +310,11 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
 * [_10 Python Tips and Tricks For Writing Better Code_](https://www.youtube.com/watch?v=C-gEQdGVXbk&feature=youtu.be) 
 
 * [_Python Programming for Network Engineers_](https://www.youtube.com/playlist?list=PLhfrWIlLOoKPn7T9FtvbOWX8GxgsFFNwn) A Youtube course on Python programming/automation for network engineers.
+
+* [ python for complete beginners](https://www.youtube.com/watch?v=W1iXIiF5iMw&list=PLkWv3oO4kHnuKi032yRRYgyQ4kgaNp6gs&ab_channel=KylieYing)
+
+* [ Basics Python Tutorial](https://www.youtube.com/watch?v=eTyI-M50Hu4&ab_channel=GreatLearning)
+
 
  
 ### Other Resources
